@@ -1,0 +1,114 @@
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.dll
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.pdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.AndroidNoteTakingApp.apk
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.AndroidNoteTakingApp-Signed.apk
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLite-net.dll
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLitePCL.raw.dll
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLite-net.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.csprojResolveAssemblyReference.cache
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.dll
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.pdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\bin\AndroidNoteTakingApp.AndroidNoteTakingApp.apk
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\add.xml
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\edit.xml
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\main.xml
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\values\strings.xml
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\drawable\icon.png
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\R.cs.flag
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\uploadflags.txt
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\Java.Interop.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\Mono.Android.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\mscorlib.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Core.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Xml.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Xml.Linq.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Net.Http.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\AndroidNoteTakingApp.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\mscorlib.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Core.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Xml.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\SQLite-net.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+H:\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.pdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.AndroidNoteTakingApp.apk
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.AndroidNoteTakingApp-Signed.apk
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLite-net.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLitePCL.raw.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.pdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\bin\AndroidNoteTakingApp.AndroidNoteTakingApp.apk
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\add.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\edit.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\main.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\values\strings.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\drawable\icon.png
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\R.cs.flag
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\uploadflags.txt
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.pdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.AndroidNoteTakingApp.apk
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.AndroidNoteTakingApp-Signed.apk
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLite-net.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLitePCL.raw.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\SQLite-net.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.pdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\bin\AndroidNoteTakingApp.AndroidNoteTakingApp.apk
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\add.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\edit.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\main.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\values\strings.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\drawable\icon.png
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\R.cs.flag
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\uploadflags.txt
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\layout\splashscreen.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\drawable-hdpi\ic_launcher.png
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\drawable-mdpi\ic_launcher.png
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\res\drawable-xxxhdpi\ic_launcher.png
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.csprojResolveAssemblyReference.cache
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\Java.Interop.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\Mono.Android.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\mscorlib.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Core.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Net.Http.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Xml.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\System.Xml.Linq.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\AndroidNoteTakingApp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\mscorlib.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\SQLite-net.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Core.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Xml.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\obj\Debug\AndroidNoteTakingApp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidNoteTakingApp\AndroidNoteTakingApp\bin\Debug\AndroidNoteTakingApp.dll.mdb
