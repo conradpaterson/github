@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25dp"
+    p1:minHeight="25dp"
+    p1:layout_width="fill_parent"
+    p1:layout_height="wrap_content"
+    p1:id="@+id/relativeLayout1"
+    p1:padding="10dp"
+    p1:background="@drawable/CustomSelector">
+    <LinearLayout
+        p1:id="@+id/LL1"
+        p1:orientation="vertical"
+        p1:layout_width="wrap_content"
+        p1:layout_height="wrap_content"
+        p1:paddingLeft="5dp">
+        <TextView
+            p1:text="City Name"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/tvOSCRCity"
+            p1:padding="10dp"
+            p1:paddingBottom="10dp"
+            p1:textColor="@color/text"
+            p1:textSize="18dp"
+            p1:typeface="serif" />
+        <TextView
+            p1:text="Current Temp"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/tvOSCRCurrentTemp"
+            p1:padding="10dp"
+            p1:textColor="@color/text" />
+    </LinearLayout>
+    <LinearLayout
+        p1:id="@+id/LL2"
+        p1:orientation="vertical"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:layout_toRightOf="@id/LL1">
+        <TextView
+            p1:text="theDateTime"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/tvOSCRCurrentDateTime"
+            p1:paddingTop="10dp"
+            p1:paddingLeft="20dp"
+            p1:textColor="@color/text" />
+        <TextView
+            p1:text="Condition"
+            p1:layout_width="wrap_content"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/tvOSCRWeatherCondition"
+            p1:paddingTop="25dp"
+            p1:paddingLeft="20dp"
+            p1:textColor="@color/text" />
+    </LinearLayout>
+    <ImageView
+        p1:src="@android:drawable/ic_menu_gallery"
+        p1:layout_width="75dp"
+        p1:layout_height="75dp"
+        p1:id="@+id/ivOSCRWeatherIcon"
+        p1:layout_alignParentRight="true" />
+</RelativeLayout>

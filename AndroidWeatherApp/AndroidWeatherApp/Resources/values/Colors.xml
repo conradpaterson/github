@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <color name="viewBack">@android:color/background_dark</color>
+  <color name="viewPressed">@android:color/background_light</color>
+  <color name="text">@android:color/holo_blue_bright</color>
+</resources> 

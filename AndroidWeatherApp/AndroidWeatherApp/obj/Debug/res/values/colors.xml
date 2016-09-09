@@ -1,0 +1,1 @@
+<resources><color name="viewBack">@android:color/background_dark</color><color name="viewPressed">@android:color/background_light</color><color name="text">@android:color/holo_blue_bright</color></resources>

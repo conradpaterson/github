@@ -1,0 +1,106 @@
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.pdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.AndroidWeatherApp.apk
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.AndroidWeatherApp-Signed.apk
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Newtonsoft.Json.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\RestSharp.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\UrlImageViewHelper.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Newtonsoft.Json.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\RestSharp.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\AndroidWeatherApp.dll
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\AndroidWeatherApp.pdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\bin\AndroidWeatherApp.AndroidWeatherApp.apk
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\layout\openingscreencustomrow.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\layout\main.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\values\strings.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\drawable\icon.png
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\R.cs.flag
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\uploadflags.txt
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.pdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.AndroidWeatherApp.apk
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.AndroidWeatherApp-Signed.apk
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\RestSharp.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\UrlImageViewHelper.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\RestSharp.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\AndroidWeatherApp.dll
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\AndroidWeatherApp.pdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\bin\AndroidWeatherApp.AndroidWeatherApp.apk
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\layout\openingscreencustomrow.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\layout\main.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\values\strings.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\drawable\icon.png
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\drawable\arrowright.png
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\drawable\customselector.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\values\colors.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\R.cs.flag
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\uploadflags.txt
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\layout\individualcitydailylayout.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\layout\individualcitydailycustomrow.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\layout\individualcitydailylayout.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\layout\individualcitydailycustomrow.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\drawable\arrowright.png
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\drawable\customselector.xml
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\res\values\colors.xml
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\AndroidWeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\mscorlib.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Core.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Xml.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\AndroidWeatherApp.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Conrad\Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\AndroidWeatherApp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Java.Interop.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Microsoft.CSharp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Mono.Android.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\Mono.CSharp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\mscorlib.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Core.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Net.Http.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Xml.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\System.Xml.Linq.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\AndroidWeatherApp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\mscorlib.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Core.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Xml.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\AndroidWeatherApp.dll.mdb
+\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\bin\Debug\AndroidWeatherApp.dll.mdb

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\__library_projects__\RestSharp\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\__library_projects__\UrlImageViewHelper\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\__library_projects__\RestSharp\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\__library_projects__\UrlImageViewHelper\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\__library_projects__\RestSharp.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>\\telmar\users\cp020\My Documents\Visual Studio 2015\Projects\AndroidWeatherApp\AndroidWeatherApp\obj\Debug\__library_projects__\UrlImageViewHelper.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
